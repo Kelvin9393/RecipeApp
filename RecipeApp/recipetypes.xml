@@ -1,0 +1,17 @@
+<recipeTypes>
+  <recipeType id="1">
+    <name>Breakfast</name>
+  </recipeType>
+  <recipeType id="2">
+    <name>Desserts</name>
+  </recipeType>
+  <recipeType id="3">
+    <name>Dinner</name>
+  </recipeType>
+  <recipeType id="4">
+    <name>Lunch</name>
+  </recipeType>
+  <recipeType id="5">
+    <name>Snacks</name>
+  </recipeType>
+</recipeTypes>
